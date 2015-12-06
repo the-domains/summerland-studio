@@ -1,7 +1,7 @@
 name: Summerland Studio
 favicon: null
-layout_spectrum: 0.563761975383386
-typography_spectrum: 0.457989645190537
+layout_spectrum: 0.33832
+typography_spectrum: 0.66608
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#1a1919'
+    - '#e1aa26'
+    - '#ffffff'
+    - '#7e7c77'
+    - '#993b16'
   brandStrength: 0.7763005560263991
-  lightness: 0.291194103192538
-  saturation: 0.012029886245727539
-  rhythmicContrast: 0.7943940530531108
+  lightness: 0.9375
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
